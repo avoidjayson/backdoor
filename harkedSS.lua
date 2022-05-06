@@ -91,7 +91,7 @@ credits.BackgroundTransparency = 1
 credits.Position = UDim2.new(0, 0, 1, 0)
 credits.Size = UDim2.new(0, 291, 0, 23)
 credits.Font = Enum.Font.SourceSansLight
-credits.Text = "Commands/Scripts by Dong , UI by Unverified"
+credits.Text = "Commands/Scripts by Jayson , UI by Devv"
 credits.TextColor3 = Color3.new(1, 1, 1)
 credits.TextSize = 17
 credits.TextWrapped = true
@@ -179,7 +179,7 @@ nolimbs.Text = "NoLimbs"
 nolimbs.TextColor3 = Color3.new(1, 1, 1)
 nolimbs.TextSize = 23
 
--- SLAVE'S WORK --
+-- Jaysons'S WORK --
 
 for i, slaves in pairs(game:GetDescendants()) do
     if slaves.Name == "DestroySegway" then
